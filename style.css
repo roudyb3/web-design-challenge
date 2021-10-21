@@ -1,0 +1,84 @@
+body {
+    background-color: #ededed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+
+}
+h1 {
+    text-align: left;
+    background-color: white;
+    font-size:larger;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #64A8A4;
+  }
+  
+  h2 {
+    text-align: center;
+    background-color: white;
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #64A8A4;
+  }
+  
+  
+  p {
+    font-size: 15px;
+    color: #708090;
+  }
+  
+  .navbar{
+    color: white;
+    font-size: large;
+  }
+
+  .navbar-brand {
+    color: white;
+    background-color: #64A8A4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+  }
+
+.navbar-nav {
+  float: right;
+}
+
+  
+  
+  .box {
+    color: black;
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    padding: 10px 20px 10px;
+  }
+
+  .title {
+    color: #64A8A4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    padding-top: 10px;
+
+  }
+
+.images{
+  width: 400px;
+  height: 300px;
+  padding: 10 px;
+
+}
+
+#image-1{
+   float: left;
+   margin-right: 30px;
+   width: 400px;
+   height: 300px;
+  }
+  
+  @media(max-width: 720 px ) {
+
+
+  }
